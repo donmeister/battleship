@@ -1,6 +1,9 @@
 #!/usr/bin/env python
 # Battleship - Single Player
 
+# DEBUG: 
+#import pdb; pdb.set_trace()
+
 from random import randint
 
 # Functions
